@@ -8,6 +8,5 @@ C# / .NET ağırlıklı web ve masaüstü uygulamaları geliştiriyorum.
 
 | Proje | Açıklama | Teknoloji |
 |---|---|---|
-| [SahaBul](https://github.com/umutkarahasan/SahaBul) | Halısaha rezervasyon platformu: canlı müsaitlik takvimi, kapora, saha sahibi paneli, REST API, PWA | ASP.NET Core 8, EF Core, SQLite |
 | [Proje Yönetimi](https://github.com/umutkarahasan/Project-Management-Program-CSharp) | Proje, görev ve personel takibi yapan masaüstü uygulaması | C#, WinForms, SQL Server |
 | [Halısaha Sitesi (PHP)](https://github.com/umutkarahasan/Hal-sahaSitesi) | Admin panelli ilk halısaha rezervasyon sitem | PHP, jQuery, MySQL |
